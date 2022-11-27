@@ -1,8 +1,6 @@
 # react-multi-form
 
-> A React Component to quicky generate a multi-step form
-
-[![NPM](https://img.shields.io/npm/v/react-multi-form.svg)](https://www.npmjs.com/package/react-multi-form) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components) 
+> This is fork fix for React v18 of multi-step form library
 
 ## Demo
 See Live Demo [here](https://harshtomar6.github.io/react-multi-form/)

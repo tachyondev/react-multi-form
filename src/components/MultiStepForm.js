@@ -8,8 +8,8 @@ function renderHiddenElement(Component) {
 
 export default function MultiStepForm(props) {
   return (
-    <div style={styles.container}>
-      <div style={styles.stepperContainer}>
+    <div id="mutli-step-form-container" style={styles.container}>
+      <div id="mutli-step-form-stepper" style={styles.stepperContainer}>
 
       {React.Children.map(props.children, (child, i) => {
         if (i === Children.count(props.children) - 1)
