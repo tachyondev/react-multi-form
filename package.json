@@ -1,6 +1,6 @@
 {
   "name": "react-multi-form-custom-fix",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "This is fork fix for React v18 of multi-step form library",
   "author": "tachyondev",
   "license": "MIT",

@@ -13,7 +13,7 @@ See Live Demo [here](https://harshtomar6.github.io/react-multi-form/)
 ## Install
 
 ```bash
-npm install --save react-multi-form
+npm i react-multi-form-custom-fix
 ```
 
 ## Usage
@@ -63,4 +63,4 @@ See the example code [here](https://github.com/harshtomar6/react-multi-form/blob
 
 ## License
 
-MIT © [harshtomar6](https://github.com/harshtomar6)
+MIT © [tachyondev](https://github.com/tachyondev)
